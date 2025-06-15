@@ -1,8 +1,4 @@
-
-Ultimate Data Engineering Program by Sumit Sir
-https://trendytech.in
-
-Technology - Azure Data Engineering Stack
+Azure Heathcare RCM Data Platform
 
 Domain - Healthcare Revenue Cycle Management (RCM)
 
@@ -606,7 +602,7 @@ modified_date TIMESTAMP,
 is_current BOOLEAN
 
 
-Sumit - Hyderabad (himayat nagar)
+X - Hyderabad (himayat nagar)
 inserted date - 11th Nov 2022
 modified date - 11th Nov 2022
 is_current true
@@ -616,7 +612,7 @@ modified date - 1st Jan 2024
 is_current false
 
 
-Sumit - Hyderabad (Tarnaka)
+X - Hyderabad (Tarnaka)
 
 inserted date 		1st Jan 2024
 modified date -   1st Jan 2024
@@ -639,7 +635,7 @@ is_current - false
 
 yet to be done
 ================
-101 Sumit Hyderabad Tarnaka
+101 X Hyderabad Tarnaka
 is_current true
 inserted date - 1st Jan 2024
 modified date - 1st Jan 2024
@@ -662,7 +658,7 @@ is_current = true
 
 is_quarantined = false
 
-/Users/trendytech.sumit501@outlook.com/3. Silver/Transactions
+/Users/tech/3. Silver/Transactions
 
 ADF
 
